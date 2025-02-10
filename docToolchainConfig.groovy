@@ -237,10 +237,6 @@ only 'file' or 'url' is allowed. If both are given, 'url' is ignored
 confluence.with {
     input = [
         [ file: "build/html5/helloworld.html",ancestorId: '4326260738', spaceKey: '~61f127f4aeaacb007203eee7' , pagePrefix: 'Doc::', pageSuffix: 'v1' ],
-        // [ file: "build/html5/bi/index.html",ancestorId: '3497459713',spaceKey: '~61f127f4aeaacb007203eee7', pagePrefix: 'bi_', pageSuffix: '' ],
-        // [ file: "build/html5/bi/chapters/reports_api_fitting.html",ancestorId: '3497459713',spaceKey: '~61f127f4aeaacb007203eee7',pagePrefix: 'bi_',pageSuffix: '' ],
-        // [ file: "build/html5/bi/chapters/vr_architecture.html",ancestorId: '3497459713',spaceKey: '~61f127f4aeaacb007203eee7',pagePrefix: 'bi_',pageSuffix: '' ],
-        // [ file: "build/html5/bi/chapters/suppliers_ecofin.html",ancestorId: '3497459713',spaceKey: '~61f127f4aeaacb007203eee7',pagePrefix: 'bi_',pageSuffix: '' ],
     ]
 
     // ancestorId = '3497459713'
